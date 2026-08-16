@@ -2,7 +2,12 @@
 
 ### Explainable AI-Based Resume Screening, Skill Gap Analysis & Candidate Ranking System
 
-TalentLens AI is a practical NLP-based recruitment screening prototype that helps recruiters compare multiple resumes against a job description. Instead of producing only a match percentage, it provides an **explainable candidate profile** with matched skills, skill gaps, weighted score, ranking and recommendation.
+TalentLens AI is a practical NLP-based recruitment screening prototype that helps recruiters compare multiple resumes against a job description. Instead of 
+producing only a match percentage, it provides an **explainable candidate profile** with matched skills, skill gaps, weighted score, ranking and recommendation.
+
+## 🚀 Live Demo
+
+[Launch TalentLens AI](https://talentlens-ai-mwpeujh2xhfzjpdtg3bgwe.streamlit.app/)
 
 ## 🚀 Key Features
 
